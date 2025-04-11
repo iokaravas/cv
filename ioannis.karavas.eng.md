@@ -82,10 +82,13 @@ Handled sales and managed technical setups including FTP/Samba shares and PC mai
 `Figma`, `Photoshop`, `Illustrator`, `CorelDraw`
 
 **CMS & Backend Support:**  
-`WordPress`, `PHP`, `Drupal`, `Joomla`, `ABAP`, `SAP`, `MySQL`
+`WordPress`, `PHP`, `Drupal`, `Joomla`, `ABAP`, `SAP`, `MySQL`, `Bash`
 
 **Other:**  
-`REST APIs`, `Responsive Design`, `Cross-Browser Compatibility`, `Performance Optimization`, `CI/CD`, `Testing (Jest, React Testing Library)`
+`Docker`, `REST APIs`, `Responsive Design`, `Cross-Browser Compatibility`, `Performance Optimization`, `CI/CD`, `Testing (Jest, React Testing Library)`
+
+**Game Development:**  
+`Unity`, `PowerQuest`, `Adventure Game Studio`, `Blender`
 
 ---
 
@@ -102,6 +105,9 @@ Contributed to the development of the *Conversation Creator* tool, a platform fo
 
 **Other Personal Projects**  
 You’ll find various utility scripts and tools on my GitHub: [https://github.com/iokaravas](https://github.com/iokaravas)
+
+**Game Development Projects**  
+You'll find some of my game development projects in my [Itch.io](https://karavas.itch.io/)
 
 ---
 
