@@ -149,5 +149,5 @@ I enjoy interesting discussions, watching films with company, taking photos, and
 
 ## 🌐 Links
 
-- **Website:** [https://karavas.me](https://karavas.io)
+- **Website:** [https://karavas.io](https://karavas.io)
 - **GitHub:** [https://github.com/iokaravas](https://github.com/iokaravas)
