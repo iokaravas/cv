@@ -69,26 +69,26 @@ Handled sales and managed technical setups including FTP/Samba shares and PC mai
 
 ## 🧰 Experience (Skills / Tools)
 
-**Frontend Development:**  
-`React`, `JavaScript (ES6+)`, `TypeScript`, `HTML5`, `CSS3`, `SASS`, `Material UI`, `Bootstrap`, `Tailwind`, `Mithril.js`, `jQuery`
+**Languages & Frameworks:**  
+`TypeScript`, `JavaScript (ES6+)`, `React`, `Next.js`, `Mithril.js`, `Electron.js`, `HTML5`, `CSS3`, `SASS`, `Node.js`
 
-**Frameworks & Libraries:**  
-`Next.js`, `Redux`, `Node.js`, `Electron.js`, `Handlebars`, `WordPress`, 
+**UI/UX & Design:**  
+`Material UI`, `Tailwind`, `Bootstrap`, `Figma`, `Photoshop`, `Illustrator`, `CorelDraw`, `Responsive Design`, `Accessibility (WCAG)`, `User-Centered Design`, `Micro-Interactions`
 
-**Build Tools & Workflow:**  
-`Vite`, `Webpack`, `Gulp`, `Babel`, `NPM`, `Yarn`, `Git`, `Bash`
-
-**Design & Prototyping:**  
-`Figma`, `Photoshop`, `Illustrator`, `CorelDraw`
+**Build & Dev Tools:**  
+`Vite`, `Webpack`, `Gulp`, `Babel`, `NPM`, `Yarn`, `Git`, `GitHub`, `CI/CD`, `Docker`, `Bash`
 
 **CMS & Backend Support:**  
-`WordPress`, `PHP`, `Drupal`, `Joomla`, `ABAP`, `SAP`, `MySQL`, `Bash`
+`WordPress`, `PHP`, `Drupal`, `Joomla`, `MySQL`, `ABAP`, `SAP`
+
+**Testing & QA:**  
+`Jest`, `React Testing Library`, `Vitest` (basic exposure), `Cypress` (basic exposure)
 
 **Other:**  
-`Docker`, `REST APIs`, `Responsive Design`, `Cross-Browser Compatibility`, `Performance Optimization`, `CI/CD`, `Testing (Jest, React Testing Library)`
+`REST APIs`, `Cross-Browser Compatibility`, `Performance Optimization`, `Clean Architecture`
 
-**Game Development:**  
-`Unity`, `PowerQuest`, `Adventure Game Studio`, `Blender`
+**Game & Creative Tools:**  
+`Unity`, `Adventure Game Studio`, `PowerQuest`, `Blender`
 
 ---
 
